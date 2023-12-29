@@ -77,5 +77,5 @@ The objective of this case study is to simulate a real world object and design i
 
 ## Class Diagram
 
-![classDiagram](https://github.com/Musu1/Design-a-Pen/blob/main/ClassDiagram.png)
+![classDiagram](https://github.com/Musu1/Design-a-Pen/blob/main/PenClassDiagram.png)
 
